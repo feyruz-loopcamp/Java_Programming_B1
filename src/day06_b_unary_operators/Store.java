@@ -22,6 +22,21 @@ public class Store {
 
 // MAC --- > control + V
 
+        int R = 20;
+        int W = -R--;
+        System.out.println(W);
+
+        R= 20;
+        int W2 = - --R;
+        System.out.println(W2);
+
+
+
+        int t = 100;
+        int p = -++t * -t-- / t++ + --t;
+
+        System.out.println(t);
+        System.out.println("p = " + p);
     }
 
 }
