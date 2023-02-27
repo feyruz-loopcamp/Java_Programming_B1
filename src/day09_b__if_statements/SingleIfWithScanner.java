@@ -14,7 +14,6 @@ public class SingleIfWithScanner {
         System.out.println("Is Java fun (true or false)? ");
         boolean answer2 = input.nextBoolean();
 
-
         // On the text two if statements, both conditions are checked.
         if (answer2) {
             System.out.println("Feyruz is really happy");
