@@ -24,7 +24,7 @@ public class SingleIfWithScanner {
         }
 
 
-        // Here if the if condtoion is TRUE, the else part is skipped
+        // Here if the if condition is TRUE, the else part is skipped
         if (answer2) {
             System.out.println("Feyruz is really happy");
         }else {
