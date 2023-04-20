@@ -14,7 +14,6 @@ public class UsingPhone {
 
         Phone phone3 = new Phone( "Iphone", "Apple", 256, 16.4 );
         System.out.println(phone3);
-
     }
 
 
