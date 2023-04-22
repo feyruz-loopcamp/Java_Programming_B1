@@ -1,6 +1,6 @@
 package day32_custom_classes;
 
-public class Employee {
+ public class Employee {
     // name, id, job title, salary (instance variables or fields or attributes)
 
     String name;
@@ -71,5 +71,10 @@ public class Employee {
 
         return msg;
     }
+
+
+
+
+
 
 }
