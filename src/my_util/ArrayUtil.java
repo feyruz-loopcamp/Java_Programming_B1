@@ -9,7 +9,7 @@ public class ArrayUtil {
      * And will return the minium number
      *
      */
-    public static int minNumInArr (int [] arr) {
+     public static int minNumInArr (int [] arr) {
 
         int min = arr [0];
         for (int each : arr ) {
